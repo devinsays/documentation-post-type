@@ -1,0 +1,254 @@
+# Copyright (C) 2014 Devin Price
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Documentation Post Type 0.1.0\n"
+"Report-Msgid-Bugs-To: "
+"http://wordpress.org/support/plugin/documentation-post-type\n"
+"POT-Creation-Date: 2014-11-20 19:12:33+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.4.9\n"
+
+#: includes/class-post-type-registrations.php:46
+msgid "Documentation"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:47
+msgid "Doc"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:48
+msgid "Add Doc"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:49
+msgid "Add New Doc"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:50
+msgid "Edit Doc"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:51
+msgid "New Doc"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:52
+msgid "View Doc"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:53
+msgid "Search Docs"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:54
+msgid "No docs found"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:55
+msgid "No docs in the trash"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:88
+#: includes/class-post-type-registrations.php:90
+msgid "Doc Categories"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:89
+msgid "Doc Category"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:91
+msgid "Edit Doc Category"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:92
+msgid "Update Doc Category"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:93
+msgid "Add New Doc Category"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:94
+msgid "New Doc Category Name"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:95
+msgid "Parent Doc Category"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:96
+msgid "Parent Doc Category:"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:97
+msgid "All Doc Categories"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:98
+msgid "Search Doc Categories"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:99
+msgid "Popular Doc Categories"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:100
+msgid "Separate doc categories with commas"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:101
+msgid "Add or remove doc categories"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:102
+msgid "Choose from the most used doc categories"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:103
+msgid "No doc categories found."
+msgstr ""
+
+#: includes/class-post-type-registrations.php:131
+#: includes/class-post-type-registrations.php:133
+msgid "Doc Tags"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:132
+msgid "Doc Tag"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:134
+msgid "Edit Doc Tag"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:135
+msgid "Update Doc Tag"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:136
+msgid "Add New Doc Tag"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:137
+msgid "New Doc Tag Name"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:138
+msgid "Parent Doc Tag"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:139
+msgid "Parent Doc Tag:"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:140
+msgid "All Doc Tags"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:141
+msgid "Search Doc Tags"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:142
+msgid "Popular Doc Tags"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:143
+msgid "Separate doc tags with commas"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:144
+msgid "Add or remove doc tags"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:145
+msgid "Choose from the most used doc tags"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:146
+msgid "No doc tags found."
+msgstr ""
+
+#: includes/class-post-type-registrations.php:175
+#: includes/class-post-type-registrations.php:177
+msgid "Product Tags"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:176
+msgid "Product Tag"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:178
+msgid "Edit Product Tag"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:179
+msgid "Update Product Tag"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:180
+msgid "Add New Product Tag"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:181
+msgid "New Product Tag Name"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:182
+msgid "Parent Product Tag"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:183
+msgid "Parent Product Tag:"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:184
+msgid "All Product Tags"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:185
+msgid "Search Product Tags"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:186
+msgid "Popular Product Tags"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:187
+msgid "Separate product tags with commas"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:188
+msgid "Add or remove product tags"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:189
+msgid "Choose from the most used product tags"
+msgstr ""
+
+#: includes/class-post-type-registrations.php:190
+msgid "No product tags found."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Documentation Post Type"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://github.com/devinsays/documentation-post-type"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Enables a post type for documentation and related taxonomies."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Devin Price"
+msgstr ""
