@@ -10,7 +10,7 @@ module.exports = function(grunt) {
 	        target: {
 	            options: {
 	                domainPath: '/languages/', // Where to save the POT file.
-	                potFilename: 'documents-post-type.pot', // Name of the POT file.
+	                potFilename: 'documentation-post-type.pot', // Name of the POT file.
 	                type: 'wp-plugin',
 	                updateTimestamp: true,
 	                exclude: [ 'includes/class-dashboard-glancer.php' ]
