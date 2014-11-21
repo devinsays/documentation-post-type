@@ -32,7 +32,7 @@ class Documentation_Post_Type {
 	 *
 	 * @var string
 	 */
-	const PLUGIN_SLUG = 'documents-post-type';
+	const PLUGIN_SLUG = 'documentation-post-type';
 
 	protected $registration_handler;
 
