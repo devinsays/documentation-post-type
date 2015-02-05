@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Documentation Post Type 0.1.0\n"
 "Report-Msgid-Bugs-To: "
 "http://wordpress.org/support/plugin/documentation-post-type\n"
-"POT-Creation-Date: 2015-02-05 14:06:35+00:00\n"
+"POT-Creation-Date: 2015-02-05 14:15:33+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,7 +15,7 @@ msgstr ""
 "X-Generator: grunt-wp-i18n 0.4.9\n"
 
 #: includes/class-post-type-registrations.php:46
-msgid "Docs"
+msgid "Documentation"
 msgstr ""
 
 #: includes/class-post-type-registrations.php:47
