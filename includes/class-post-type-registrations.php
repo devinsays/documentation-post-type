@@ -43,7 +43,7 @@ class Documentation_Post_Type_Registrations {
 	 */
 	protected function register_post_type() {
 		$labels = array(
-			'name'               => __( 'Documentation', 'documentation-post-type' ),
+			'name'               => __( 'Docs', 'documentation-post-type' ),
 			'singular_name'      => __( 'Doc', 'documentation-post-type' ),
 			'add_new'            => __( 'Add Doc', 'documentation-post-type' ),
 			'add_new_item'       => __( 'Add New Doc', 'documentation-post-type' ),
