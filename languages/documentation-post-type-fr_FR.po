@@ -6,14 +6,14 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/documentation-post-"
 "type\n"
 "POT-Creation-Date: 2014-11-20 19:12:33+00:00\n"
-"PO-Revision-Date: 2014-12-28 11:19+0100\n"
+"PO-Revision-Date: 2015-05-28 12:04+0100\n"
 "Last-Translator: fxbenard | FxB <fx@fxbenard.com>\n"
 "Language-Team: Hexagone <fx@hexagone.io>\n"
 "Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.7.1\n"
+"X-Generator: Poedit 1.8.1\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
@@ -121,124 +121,124 @@ msgstr "Aucune catégorie de doc trouvée."
 #: includes/class-post-type-registrations.php:131
 #: includes/class-post-type-registrations.php:133
 msgid "Doc Tags"
-msgstr "Mots-clés de doc"
+msgstr "Étiquettes de doc"
 
 #: includes/class-post-type-registrations.php:132
 msgid "Doc Tag"
-msgstr "Mot-clé de la doc"
+msgstr "Étiquette de la doc"
 
 #: includes/class-post-type-registrations.php:134
 msgid "Edit Doc Tag"
-msgstr "Modifier le mot-clé de la doc"
+msgstr "Modifier l'étiquette de la doc"
 
 #: includes/class-post-type-registrations.php:135
 msgid "Update Doc Tag"
-msgstr "Mettre à jour le mot-clé de la doc"
+msgstr "Mettre à jour le étiquette de la doc"
 
 #: includes/class-post-type-registrations.php:136
 msgid "Add New Doc Tag"
-msgstr "Ajouter un nouveau mot-clé de doc"
+msgstr "Ajouter un nouveau étiquette de doc"
 
 #: includes/class-post-type-registrations.php:137
 msgid "New Doc Tag Name"
-msgstr "Nouveau nom du mot-clé de doc"
+msgstr "Nouveau nom du étiquette de doc"
 
 #: includes/class-post-type-registrations.php:138
 msgid "Parent Doc Tag"
-msgstr "Mot-clé parent du doc"
+msgstr "Étiquette parente du doc"
 
 #: includes/class-post-type-registrations.php:139
 msgid "Parent Doc Tag:"
-msgstr "Mot-clé parent du doc :"
+msgstr "Étiquette parente du doc :"
 
 #: includes/class-post-type-registrations.php:140
 msgid "All Doc Tags"
-msgstr "Tous les mots-clés de doc"
+msgstr "Tous les étiquettes de doc"
 
 #: includes/class-post-type-registrations.php:141
 msgid "Search Doc Tags"
-msgstr "Chercher les mots-clés de doc"
+msgstr "Chercher les étiquettes de doc"
 
 #: includes/class-post-type-registrations.php:142
 msgid "Popular Doc Tags"
-msgstr "Mots-clés de doc populaires"
+msgstr "Étiquettes de doc populaires"
 
 #: includes/class-post-type-registrations.php:143
 msgid "Separate doc tags with commas"
-msgstr "Séparer les mots-clés de doc par des virgules"
+msgstr "Séparer les étiquettes de doc par des virgules"
 
 #: includes/class-post-type-registrations.php:144
 msgid "Add or remove doc tags"
-msgstr "Ajouter ou supprimer des mots-clés de doc"
+msgstr "Ajouter ou supprimer des étiquettes de doc"
 
 #: includes/class-post-type-registrations.php:145
 msgid "Choose from the most used doc tags"
-msgstr "Choisir parmi les mots-clés de doc les plus utilisés"
+msgstr "Choisir parmi les étiquettes de doc les plus utilisés"
 
 #: includes/class-post-type-registrations.php:146
 msgid "No doc tags found."
-msgstr "Aucun mot-clé de doc trouvé."
+msgstr "Aucun étiquette de doc trouvé."
 
 #: includes/class-post-type-registrations.php:175
 #: includes/class-post-type-registrations.php:177
 msgid "Product Tags"
-msgstr "Mots-clés de produit"
+msgstr "Étiquettes de produit"
 
 #: includes/class-post-type-registrations.php:176
 msgid "Product Tag"
-msgstr "Mot-clé du produit"
+msgstr "Étiquette du produit"
 
 #: includes/class-post-type-registrations.php:178
 msgid "Edit Product Tag"
-msgstr "Modifier le mot-clé du produit"
+msgstr "Modifier l'étiquette du produit"
 
 #: includes/class-post-type-registrations.php:179
 msgid "Update Product Tag"
-msgstr "Mettre à jour le mot-clé du produit"
+msgstr "Mettre à jour le étiquette du produit"
 
 #: includes/class-post-type-registrations.php:180
 msgid "Add New Product Tag"
-msgstr "Ajouter un nouveau mot-clé de produit"
+msgstr "Ajouter un nouveau étiquette de produit"
 
 #: includes/class-post-type-registrations.php:181
 msgid "New Product Tag Name"
-msgstr "Nouveau nom du mot-clé du produit"
+msgstr "Nouveau nom du étiquette du produit"
 
 #: includes/class-post-type-registrations.php:182
 msgid "Parent Product Tag"
-msgstr "Mot-clé parent du produit"
+msgstr "Étiquette parente du produit"
 
 #: includes/class-post-type-registrations.php:183
 msgid "Parent Product Tag:"
-msgstr "Mot-clé parent du produit :"
+msgstr "Étiquette parente du produit :"
 
 #: includes/class-post-type-registrations.php:184
 msgid "All Product Tags"
-msgstr "Tous les mots-clés de produit"
+msgstr "Tous les étiquettes de produit"
 
 #: includes/class-post-type-registrations.php:185
 msgid "Search Product Tags"
-msgstr "Chercher les mots-clés de produit"
+msgstr "Chercher les étiquettes de produit"
 
 #: includes/class-post-type-registrations.php:186
 msgid "Popular Product Tags"
-msgstr "Mots clés de produit populaires"
+msgstr "Étiquettes de produit populaires"
 
 #: includes/class-post-type-registrations.php:187
 msgid "Separate product tags with commas"
-msgstr "Séparer les mots-clés de produit par des virgules"
+msgstr "Séparer les étiquettes de produit par des virgules"
 
 #: includes/class-post-type-registrations.php:188
 msgid "Add or remove product tags"
-msgstr "Ajouter ou supprimer des mots-clés de produit"
+msgstr "Ajouter ou supprimer des étiquettes de produit"
 
 #: includes/class-post-type-registrations.php:189
 msgid "Choose from the most used product tags"
-msgstr "Choisir parmi les mots-clés de doc les plus utilisés"
+msgstr "Choisir parmi les étiquettes de doc les plus utilisés"
 
 #: includes/class-post-type-registrations.php:190
 msgid "No product tags found."
-msgstr "Aucun mot-clé de produit trouvé."
+msgstr "Aucun étiquette de produit trouvé."
 
 #. Plugin Name of the plugin/theme
 msgid "Documentation Post Type"
