@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/documentation-post-"
 "type\n"
 "POT-Creation-Date: 2014-11-20 19:12:33+00:00\n"
-"PO-Revision-Date: 2015-05-28 12:04+0100\n"
+"PO-Revision-Date: 2015-05-28 12:09+0100\n"
 "Last-Translator: fxbenard | FxB <fx@fxbenard.com>\n"
 "Language-Team: Hexagone <fx@hexagone.io>\n"
 "Language: fr_FR\n"
@@ -182,7 +182,7 @@ msgstr "Aucun étiquette de doc trouvé."
 #: includes/class-post-type-registrations.php:175
 #: includes/class-post-type-registrations.php:177
 msgid "Product Tags"
-msgstr "Étiquettes de produit"
+msgstr "Étiquettes du produit"
 
 #: includes/class-post-type-registrations.php:176
 msgid "Product Tag"
