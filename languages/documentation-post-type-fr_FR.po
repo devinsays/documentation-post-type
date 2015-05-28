@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/documentation-post-"
 "type\n"
 "POT-Creation-Date: 2014-11-20 19:12:33+00:00\n"
-"PO-Revision-Date: 2015-05-28 12:16+0100\n"
+"PO-Revision-Date: 2015-05-28 12:20+0100\n"
 "Last-Translator: fxbenard | FxB <fx@fxbenard.com>\n"
 "Language-Team: Hexagone <fx@hexagone.io>\n"
 "Language: fr_FR\n"
@@ -177,7 +177,7 @@ msgstr "Choisir parmi les étiquettes de doc les plus utilisés"
 
 #: includes/class-post-type-registrations.php:146
 msgid "No doc tags found."
-msgstr "Aucune étiquette de doc trouvé."
+msgstr "Aucune étiquette de doc trouvée."
 
 #: includes/class-post-type-registrations.php:175
 #: includes/class-post-type-registrations.php:177
@@ -198,7 +198,7 @@ msgstr "Mettre à jour le étiquette du produit"
 
 #: includes/class-post-type-registrations.php:180
 msgid "Add New Product Tag"
-msgstr "Ajouter un nouvelle étiquette de produit"
+msgstr "Ajouter une nouvelle étiquette de produit"
 
 #: includes/class-post-type-registrations.php:181
 msgid "New Product Tag Name"
@@ -238,7 +238,7 @@ msgstr "Choisir parmi les étiquettes de doc les plus utilisés"
 
 #: includes/class-post-type-registrations.php:190
 msgid "No product tags found."
-msgstr "Aucune étiquette de produit trouvé."
+msgstr "Aucune étiquette de produit trouvée."
 
 #. Plugin Name of the plugin/theme
 msgid "Documentation Post Type"
