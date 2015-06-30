@@ -71,6 +71,7 @@ class Documentation_Post_Type_Registrations {
 			'rewrite'         => array( 'slug' => 'documentation', ), // Permalinks format
 			'menu_position'   => 30,
 			'menu_icon'       => 'dashicons-book',
+			'has_archive'	  => true
 		);
 
 		$args = apply_filters( 'documentation_post_type_args', $args );
